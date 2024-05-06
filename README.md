@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/Aleladeia"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aleladeia&show_icons=true&include_all_commits=true&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aleladeia&show_icons=true&theme=gotham"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleladeia&layout=compact&theme=gotham"/>
 </div>
 
